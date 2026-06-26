@@ -22,8 +22,8 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Zhijie Guan"
-      description = "Ph.D Student in [Lorem ipsum College](https://example.com)."
-      motto = "Most things in the world are not that important. But truth and love matter."
+      description = " A sophomore of CIRAM at Fudan University"
+      motto = "And there’s a million things I haven’t done.\n But just you wait, just you wait..."
     
     [[languages.en.menu.main]]
       name = 'About Me'
@@ -47,7 +47,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
       weight = 5
     [[languages.en.menu.main]]
       name = 'Misc'
-      url = '#Misc'
+      url = '#misc'
       weight = 6
 
       
@@ -83,7 +83,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
       weight = 5
     [[languages.zh.menu.main]]
       name = '一些有的没的'
-      url = '#Misc'
+      url = '#misc'
       weight = 6
 
 
@@ -111,6 +111,10 @@ disableKinds = ["taxonomy", "term", "RSS"]
     name = "zhihu"
     url = "https://zhihu.com/"
     icon = "fab fa-zhihu"
+  [[params.social]]
+    name = "xiaohongshu"
+    url = "https://www.xiaohongshu.com/explore"
+    icon = "fas fa-book-open"
 
 [build]
   writeStats = false
