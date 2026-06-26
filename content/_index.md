@@ -26,8 +26,8 @@ in Conference on Neural Information Processing Systems (**Neurips**), 2023. <br>
 
 
 # 📖 Educations {#educations}
-- *2025.09 - 2029.06 (Expected) *, Fudan University, Intelligent Science and Technology, Undergraduate.
-- *2022.09 - 2025.06 *, High School Affiliated to Fudan University, High School Student.
+- *2025.09 - 2029.06 (Expected)*, Fudan University, Intelligent Science and Technology, Undergraduate.
+- *2022.09 - 2025.06*, High School Affiliated to Fudan University, High School Student.
 
 
 # 💬 Misc {#misc}

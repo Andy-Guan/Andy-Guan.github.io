@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Zhijie Guan"
-      description = " A sophomore of CIRAM \n at Fudan University"
+      description = " A sophomore of CIRAM\n  at Fudan University"
       motto = "And there’s a million things I haven’t done.\n But just you wait, just you wait..."
     
     [[languages.en.menu.main]]
