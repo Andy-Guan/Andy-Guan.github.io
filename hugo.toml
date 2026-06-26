@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Zhijie Guan"
-      description = " A sophomore of CIRAM at Fudan University"
+      description = " A sophomore of CIRAM \n at Fudan University"
       motto = "And there’s a million things I haven’t done.\n But just you wait, just you wait..."
     
     [[languages.en.menu.main]]
@@ -101,7 +101,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     icon = "fab fa-google-scholar"
   [[params.social]]
     name = "email"
-    url = "25303070007@m.fudan.edu.cn"
+    url = "mailto:25303070007@m.fudan.edu.cn"
     icon = "fas fa-envelope"
   [[params.social]]
     name = "linkedin"
